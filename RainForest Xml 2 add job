@@ -1,4 +1,4 @@
-FRa<source>
+<source>
 <publisher>RealMatch</publisher>
 <publisherurl>http://www.realmatch.com</publisherurl>
 <job>
@@ -527,8 +527,6 @@ FRa<source>
         <experience/>
         <expirationdate/>
         <remotetype/>
-        <workschedule>Full Time</workschedule>
-   
+        <workschedule>Full Time</workschedule> 
     </job>
-         
-</source>
+    </source>
